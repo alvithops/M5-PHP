@@ -4,7 +4,7 @@
 <body>
     <?php
     $angkaAcak = rand(1, 100);
-    echo "Bulatan acak : $angkaAcak <br>";
+    echo "Angka acak : $angkaAcak <br>";
     $akar = sqrt(100);
     echo "Akar 100 : $akar <br>";
     $desimal = 123.6783;
