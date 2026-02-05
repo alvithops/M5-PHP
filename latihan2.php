@@ -3,7 +3,7 @@
 
 <body>
     <?php
-    $str = "nama saya Alvitho Polycharsius Sipayung";
+    $str = "nama saya Alvitho P Sipayung";
     $str2 = strtolower($str);
     echo $str2 . '<br>';
     $str2 = strtoupper($str);
